@@ -1,0 +1,160 @@
+Interface_Protocol={
+    "N1": "IP | SCTP | NG-AP | NAS",
+    "N2": "IP | SCTP | NG-AP",
+    "N3": "IP | UDP | GTP-U",
+    "N4^": "CP: IP | UDP | PFCP UP: IP | UDP | GTP-U",
+    "N5": "IP | TCP | HTTP2 | JSON",
+    "N6": "IP | Application",
+    "N7": "IP | TCP | HTTP2 | JSON",
+    "N8": "IP | TCP | HTTP2 | JSON",
+    "N9": "IP | UDP | GTP-U",
+    "N10": "IP | TCP | HTTP2 | JSON",
+    "N11": "IP | TCP | HTTP2 | JSON",
+    "N12": "IP | TCP | HTTP2 | JSON",
+    "N13": "IP | TCP | HTTP2 | JSON",
+    "N14": "IP | TCP | HTTP2 | JSON",
+    "N15": "IP | TCP | HTTP2 | JSON",
+    "N16": "IP | TCP | HTTP2 | JSON",
+    "N17": "IP | TCP | HTTP2 | JSON",
+    "N18": "IP | TCP | HTTP2 | JSON",
+    "N20": "IP | TCP | HTTP2 | JSON",
+    "N21": "IP | TCP | HTTP2 | JSON",
+    "N22": "IP | TCP | HTTP2 | JSON",
+    "N23": "IP | TCP | HTTP2 | JSON",
+    "N24": "IP | TCP | HTTP2 | JSON",
+    "N25": "IP | TCP | HTTP2 | JSON",
+    "N26": "IP | UDP | GTP-C",
+    "N27": "IP | TCP | HTTP2 | JSON",
+    "N28": "IP | TCP | HTTP2 | JSON",
+    "N29": "IP | TCP | HTTP2 | JSON",
+    "N30": "IP | TCP | HTTP2 | JSON",
+    "N31": "IP | TCP | HTTP2 | JSON",
+    "N32": "IP | TCP | HTTP2 | JSON",
+    "N33": "IP | TCP | HTTP2 | JSON",
+    "N34": "IP | TCP | HTTP2 | JSON",
+    "N35": "IP | TCP | HTTP2 | JSON",
+    "N36": "IP | TCP | HTTP2 | JSON",
+    "N37": "IP | TCP | HTTP2 | JSON",
+    "N40": "IP | TCP | HTTP2 | JSON",
+    "N50": "IP | TCP | HTTP2 | JSON",
+    "N51": "IP | TCP | HTTP2 | JSON",
+    "N51i": "IP | TCP | HTTP2 | JSON",
+    "N52": "IP | TCP | HTTP2 | JSON",
+    "N53": "IP | TCP | HTTP2 | JSON",
+    "N55": "IP | TCP | HTTP2 | JSON",
+    "N56": "IP | TCP | HTTP2 | JSON",
+    "N57": "IP | TCP | HTTP2 | JSON",
+    "N58": "IP | TCP | HTTP2 | JSON",
+    "N62": "IP | TCP | HTTP2 | JSON",
+    "N63": "IP | TCP | HTTP2 | JSON",
+    "N61": "IP | TCP | HTTP2 | JSON",
+    "N60": "IP | TCP | HTTP2 | JSON",
+    "N59": "IP | TCP | HTTP2 | JSON",
+    "N60": "IP | TCP | HTTP2 | JSON",
+    "N66": "IP | TCP | HTTP2 | JSON",
+    "N67": "IP | TCP | HTTP2 | JSON",
+    "N68": "IP | TCP | HTTP2 | JSON",
+    "N70": "IP | TCP | HTTP2 | JSON",
+    "N71": "IP | TCP | HTTP2 | JSON",
+    "N80": "IP | TCP | HTTP2 | JSON",
+    "N81": "IP | TCP | HTTP2 | JSON",
+    "N82": "IP | TCP | HTTP2 | JSON",
+    "N83": "IP | TCP | HTTP2 | JSON",
+    "N84": "IP | TCP | HTTP2 | JSON",
+    "N85": "IP | TCP | HTTP2 | JSON",
+    "N97": "IP | TCP | HTTP2 | JSON",
+    "N99": "IP | TCP | HTTP2 | JSON",
+    "NL1": "IP | TCP | HTTP2 | JSON",
+    "NL2": "IP | TCP | HTTP2 | JSON",
+    "NL3": "IP | TCP | HTTP2 | JSON",
+    "NL5": "IP | TCP | HTTP2 | JSON",
+    "NL6": "IP | TCP | HTTP2 | JSON",
+    "NL7": "IP | TCP | HTTP2 | JSON",
+    "NL8": "IP | TCP | HTTP2 | JSON",
+    "NL9": "IP | TCP | HTTP2 | JSON",
+    "NL10": "IP | TCP | HTTP2 | JSON",
+    "Le": "IP | TCP | HTTP2 | MLP",
+    "PC1": "IP | TCP | HTTP2 | JSON",
+    "PC3a": "IP | TCP | HTTP",
+    "PC5": "PHY | MAC | RLC | PDCP | PC5",
+    "PC8": "N/A",
+    "Npc2": "IP | TCP | HTTP2 | JSON",
+    "Npc4": "IP | TCP | HTTP2 | JSON",
+    "Npc6": "IP | TCP | HTTP2 | JSON",
+    "Npc7": "IP | TCP | HTTP2 | JSON",
+    "Npc8": "IP | TCP | HTTP2 | JSON",
+    "Npc9": "IP | TCP | HTTP2 | JSON",
+    "Npc10": "IP | TCP | HTTP2 | JSON",
+    "Y1": "Not specified by 3GPP",
+    "Y2": "Not specified by 3GPP",
+    "NR-Uu": "PHY | MAC | RLC | PDCP | RRC",
+    "Nmb1": "N/A",
+    "Nmb2": "N/A",
+    "Nmb5": "N/A",
+    "Nmb8": "N/A",
+    "Nmb9": "IP | UDP | GTP-U",
+    "Nmb10": "N/A",
+    "Nmb12": "N/A",
+    "Nmb13": "N/A",
+    "N3mb": "IP | UDP | GTP-U",
+    "N4mb": "N/A",
+    "N6mb": "IP | UDP | GTP-U",
+    "N7mb": "N/A",
+    "N11mb": "N/A",
+    "N16mb": "N/A",
+    "N19mb": "IP | UDP | GTP-U",
+    "N29mb": "N/A",
+    "Npc2": "IP | TCP | HTTP2 | JSON",
+    "Npc4": "IP | TCP | HTTP2 | JSON",
+    "Npc6": "IP | TCP | HTTP2 | JSON",
+    "Npc7": "IP | TCP | HTTP2 | JSON",
+    "Npc8": "IP | TCP | HTTP2 | JSON",
+    "Npc9": "IP | TCP | HTTP2 | JSON",
+    "Npc10": "IP | TCP | HTTP2 | JSON",
+    "SR5": "N/A",
+    "CAPIF-1": "N/A",
+    "CAPIF-1e": "N/A",
+    "CAPIF-2": "N/A",
+    "CAPIF-2e": "N/A",
+    "CAPIF-3": "N/A",
+    "CAPIF-3e": "N/A",
+    "CAPIF-4": "N/A",
+    "CAPIF-4e": "N/A",
+    "CAPIF-5": "N/A",
+    "CAPIF-5e": "N/A",
+    "CAPIF-6": "N/A",
+    "CAPIF-6e": "N/A",
+    "CAPIF-7": "N/A",
+    "CAPIF-7e": "N/A",
+    "N19": "IP | UDP | GTP-U",
+    "SR1":"Not specified by 3GPP",
+    "SR5":"carried over PC5-U"
+}
+non_service_based_interface=['N1','N2','N3' ,'N6','Y1','Y2','N3mb','N4mb','N6mb','SR1','SR5','NR-Uu']
+# Create a new dictionary with modified keys
+modified_Interface_Protocol = {}
+service_based_interface=[]
+for key, value in Interface_Protocol.items():
+    if key not in non_service_based_interface and  "^" not in key:
+        modified_Interface_Protocol[f"{key}*"] = value
+    else:
+        modified_Interface_Protocol[key] = value
+for key in  modified_Interface_Protocol:
+    if "*" in key:
+        service_based_interface.append(key)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
